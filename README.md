@@ -1,4 +1,6 @@
 # 202531017_Laprak_2_AP1_A
+Berikut penjelasan saya mengenai coding yang saya buat dalam baris per baris :
+
 #include <iostream>
 •	Baris ini merupakan suatu pustaka untuk membaca data pengguna (cin) dan menampilkan hasil ke layar (cout)
 
